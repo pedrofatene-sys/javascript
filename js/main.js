@@ -1,8 +1,15 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'aula - 01' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'NBUJHxwthHA', name: 'aula - 03' }
+    { id: 'Ptbk2af68e8', name: 'O que o JavaScript é capaz de fazer? ' },
+    { id: 'rUTKomc2gG8', name: 'JavaScript: como chegamos até aqui?' },
+    { id: 'FdePtO5JSd0', name: 'Dando os primeiros passos' },
+    { id: 'OmmJBfcMJA8', name: 'Criando o seu primeiro script' },
+    { id: 'Vbabsye7mWo', name: 'Variáveis e Tipos Primitivos' },
+    { id: 'OJgu_KCCUSY', name: 'Tratamento de dados' },
+    { id: 'hZG9ODUdxHo', name: 'Operadores (Parte1)' },
+    { id: 'BP63NhITvao', name: 'Operadores (Parte1)' },
+    { id: 'WWZX8RWLxIk', name: 'Introdução ao DOM' },
+    { id: 'wWnBB-mZIvY', name: 'Eventos DOM' },
 ];
 
 // Estado atual
