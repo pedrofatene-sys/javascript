@@ -32,7 +32,7 @@ const channels = [
     { id: 'wWnBB-mZIvY', name: 'modificar id e name' },
     { id: 'wWnBB-mZIvY', name: 'modificar id e name' },
     { id: 'wWnBB-mZIvY', name: 'modificar id e name' },
-    { id: 'wWnBB-mZIvY', name: 'modificar id e name' },
+    { id: 'wWnBB-mZIvY', name: 'modificar id e name' }
 ];
 
 // Estado atual
